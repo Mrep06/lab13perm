@@ -43,6 +43,6 @@ void updateImage(bool image[N][M],int s,int x,int y){
         
     }
     }
-    }
+}
 
     
